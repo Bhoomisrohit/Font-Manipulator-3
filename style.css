@@ -1,0 +1,38 @@
+.heading
+{
+    font-size: 23px;
+    font-family: 'Rubik Bubbles', cursive;
+    box-shadow: 5px 5px 5px grey;
+    width: 100%;
+    margin: 0px;
+    color: rgb(247, 99, 160);
+}
+
+.note
+{
+ font-size: 15px;
+ color: black;
+ font-family: 'Hurricane', 'cursive';
+}
+
+.copy_right_footer
+{
+position: fixed; 
+color: rgb(150, 248, 194);
+bottom: 0px;
+width: 100%;
+background-color: grey;
+text-align: left;
+line-height: 3;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+canvas
+{
+ border:  5px solid white  ;
+ border: radius 20px; 
+ box-shadow: 5px 5px 5px grey;
+ 
+}
+
+
